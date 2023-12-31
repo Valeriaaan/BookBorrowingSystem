@@ -1,0 +1,132 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LibraryManagementSystem
+</name>
+</assembly>
+<members>
+<member name="P:LibraryManagementSystem.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_add_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_add_60">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_basket_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_book_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_category_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_dashboard_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_delete_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_delete_60">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_delivery_truck_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_edit_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_edit_60">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_edit_60__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_home_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_home_48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_ingredients_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_logout_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_name_tag_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_product_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_quill_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_shopping_cart_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_staff_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_stamp_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_supplier_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_transaction_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_view_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.icons8_view_60">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:LibraryManagementSystem.My.Resources.Resources.library_background">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:LibraryManagementSystem.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
